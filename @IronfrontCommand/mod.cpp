@@ -1,0 +1,13 @@
+name = "Ironfront Command";
+actionName = "Website";
+action = "";
+description = "StarCraft 2-inspired Real-Time Strategy game mode for Arma 3. Build bases, train armies, destroy the enemy HQ.";
+author = "IFC Dev";
+logo = "";
+logoOver = "";
+logoSmall = "";
+tooltip = "Ironfront Command";
+tooltipOwner = "IFC Dev";
+overview = "RTS game mode for Arma 3";
+hideName = 0;
+hidePicture = 0;

@@ -1,0 +1,25 @@
+// ============================================================================
+// Ironfront Command — Dev Test Mission (VR Map)
+// Sprint 1: Foundation & Resource System Test
+// ============================================================================
+
+author = "IFC Dev";
+briefingName = "Ironfront Command - Dev Test";
+onLoadName = "IRONFRONT COMMAND";
+onLoadMission = "Sprint 1: Foundation & Resource System";
+overviewText = "Development test mission for Ironfront Command RTS mod.";
+
+// Respawn settings
+respawn = "BASE";
+respawnDelay = 5;
+respawnOnStart = -1;
+
+// Disable AI respawn
+disabledAI = 1;
+
+// Mission header
+class Header {
+    gameType = Coop;
+    minPlayers = 1;
+    maxPlayers = 4;
+};
